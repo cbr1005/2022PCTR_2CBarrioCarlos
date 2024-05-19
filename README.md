@@ -13,20 +13,8 @@ Este proyecto es una simulación de un videojuego donde se generan y eliminan en
 - Monitorizar la ejecución de programas concurrentes en Java.
 
 ## Estructura del Proyecto
-simulador_juego
-│
-├── src
-│ ├── simulador_juego
-│ │ ├── ActividadAliada.java
-│ │ ├── ActividadEnemiga.java
-│ │ ├── IJuego.java
-│ │ ├── Juego.java
-│ │ └── SistemaLanzador.java
-│ └── META-INF
-│ └── MANIFEST.MF
-├── bin
-├── lib
-└── README.md
+![image](https://github.com/cbr1005/2022PCTR_2CBarrioCarlos/assets/161236233/43360c95-eb72-4b65-9bfd-8590805507b3)
+
 
 
 ## Instrucciones de Compilación y Ejecución
