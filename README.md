@@ -36,8 +36,4 @@ java -jar juego_simulacion.jar
 - Eclipse (opcional)
 
 ## Ejemplos de Uso
-Generado enemigo tipo 0 --> Enemigos totales: 1
-----> Enemigos tipo 3: 0 ------ [Eliminados:0]
-----> Enemigos tipo 2: 0 ------ [Eliminados:0]
-----> Enemigos tipo 1: 0 ------ [Eliminados:0]
-----> Enemigos tipo 0: 1 ------ [Eliminados:0]
+![image](https://github.com/cbr1005/2022PCTR_2CBarrioCarlos/assets/161236233/60e4421c-8449-438b-947c-f9acbc537a7c)
